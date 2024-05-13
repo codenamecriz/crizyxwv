@@ -1,2 +1,2 @@
 # crizyxwv
-Profile Config
+Hi! I'm criz. :)
