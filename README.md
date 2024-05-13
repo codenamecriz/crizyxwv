@@ -12,9 +12,5 @@ I am a Developer from Philippines.
 
 ### Socials
 
-<div id="badges">
-  <a href="[https://www.linkedin.com/in/stefan-topalovic-dev/](https://www.linkedin.com/in/coligojr/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/coligojr/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
